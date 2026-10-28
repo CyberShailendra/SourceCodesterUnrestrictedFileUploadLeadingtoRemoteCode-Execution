@@ -22,6 +22,11 @@ An unrestricted upload may allow a file with a dangerous extension to be stored 
 
 ## Finding Details
 
+**Entry:** VDB-426509
+
+**CVE ID:** CVE-2026-116603
+
+
 | Field | Value |
 |---|---|
 | **Title** | Online Food Ordering System `add_food.php` Unrestricted File Upload RCE |
